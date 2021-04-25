@@ -72,4 +72,4 @@ alt="After Effects Tutorial" width="240" height="180" border="10" /></a>
 <a href="https://github.com/akhilbaiju?tab=followers"><img src="https://img.shields.io/github/followers/akhilbaiju?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<h4 align="center"> Scoll down to know more about me</h4>
+<h4 align="center"> 😌👇 Scoll down to know more about me</h4>
