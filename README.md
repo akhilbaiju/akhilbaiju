@@ -26,19 +26,19 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/akhilbaiju/github-readme-stats"><img alt="Akhil Baiju's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhilbaiju&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/akhilbaiju/github-readme-stats"><img alt="Akhil Baiju's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilbaiju&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/akhilbaiju/github-readme-stats"><img alt="Please wait my stat image is loading.Your internet is slow or you have turned on data saver" src="https://github-readme-stats.vercel.app/api?username=akhilbaiju&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/akhilbaiju/github-readme-stats"><img alt="Please wait my language stat image is loading.Your internet is slow or you have turned on data saver" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilbaiju&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 ## ❤ Views and Followers
 <a href="https://github.com/akhilbaiju/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=akhilbaiju">
 </a>
-<a href="https://github.com/akhilbaiju?tab=followers"><img src="https://img.shields.io/github/followers/akhilbaiju?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/akhilbaiju?tab=followers"><img src="https://img.shields.io/github/followers/akhilbaiju?label=Followers&style=social" alt="Please wait my views image is loading.Your internet is slow or you have turned on data saver"></a>
 
-## 📊 My Spotify
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/amks19oqzzbzonjlnwem17ld2)
+## 🎵 My Spotify
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Please wait my Spotify is loading.Your internet is slow or you have turned on data saver" width="350" />](https://open.spotify.com/user/amks19oqzzbzonjlnwem17ld2)
 
 
 
@@ -49,13 +49,13 @@
 alt="Animated Sticker Tutorial" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MKMZL32mzhk
 " target="_blank"><img src="http://img.youtube.com/vi/MKMZL32mzhk/0.jpg" 
-alt="Animated Sticker Tutorial" width="240" height="180" border="10" /></a>
+alt="ZXP Installer Solution" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IPagz9N4J5E
 " target="_blank"><img src="http://img.youtube.com/vi/IPagz9N4J5E/0.jpg" 
-alt="Animated Sticker Tutorial" width="240" height="180" border="10" /></a>
+alt="After Effects Tutorial" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fARLsBGE2Eg
 " target="_blank"><img src="http://img.youtube.com/vi/fARLsBGE2Eg/0.jpg" 
-alt="Animated Sticker Tutorial" width="240" height="180" border="10" /></a>
+alt="After Effects Tutorial" width="240" height="180" border="10" /></a>
 <br/>
 
 
@@ -72,3 +72,4 @@ alt="Animated Sticker Tutorial" width="240" height="180" border="10" /></a>
 <a href="https://github.com/akhilbaiju?tab=followers"><img src="https://img.shields.io/github/followers/akhilbaiju?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
+<h4 align="center"> Scoll down to know more about me</h4>
