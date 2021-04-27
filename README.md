@@ -59,17 +59,13 @@ alt="After Effects Tutorial" width="240" height="180" border="10" /></a>
 <br/>
 
 
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px">Connect with me &emsp; &emsp; &emsp; &emsp; &emsp; ⛄ My Profile visitors
-<p align="left">
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px">Connect with me
 
 <a href = "https://www.linkedin.com/in/akhil-baiju-906b461a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/akhilbaiju_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/akhil.baiju_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCe5RaLkqRimYwdWss4FpH2w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/akhilbaiju007/"><img src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" width="35" alt="fb logo"/></a> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/akhilbaiju/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=akhilbaiju">
-</a>
-<a href="https://github.com/akhilbaiju?tab=followers"><img src="https://img.shields.io/github/followers/akhilbaiju?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+   
 
 <h4 align="center"> 😌👇 Scoll down to know more about me</h4>
