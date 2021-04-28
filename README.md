@@ -53,10 +53,6 @@ alt="ZXP Installer Solution" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IPagz9N4J5E
 " target="_blank"><img src="http://img.youtube.com/vi/IPagz9N4J5E/0.jpg" 
 alt="After Effects Tutorial" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fARLsBGE2Eg
-" target="_blank"><img src="http://img.youtube.com/vi/fARLsBGE2Eg/0.jpg" 
-alt="After Effects Tutorial" width="240" height="180" border="10" /></a>
-<br/>
 
 
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px">Connect with me
