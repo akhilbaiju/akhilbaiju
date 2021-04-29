@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akhilbaiju00135@gmail.com**
 
-- ⚡ Fun fact **I love to UI Design Part than coding.**
+- ⚡ Fun fact **I love UI Design Part than coding.**
 
 <p align="center">
     <a href="https://github.com/akhilbaiju/github-readme-streak-stats">
