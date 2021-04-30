@@ -65,5 +65,3 @@ alt="After Effects Tutorial" width="240" height="180" border="10" /></a>
    
 
 <h4 align="center"> 😌👇 Scoll down to know more about me</h4>
-
-.
