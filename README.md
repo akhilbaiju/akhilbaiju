@@ -37,10 +37,6 @@
 </a>
 <a href="https://github.com/akhilbaiju?tab=followers"><img src="https://img.shields.io/github/followers/akhilbaiju?label=Followers&style=social" alt="Please wait my views image is loading.Your internet is slow or you have turned on data saver"></a>
 
-## 🎵 My Spotify
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Please wait my Spotify is loading.Your internet is slow or you have turned on data saver" width="350" />](https://open.spotify.com/user/amks19oqzzbzonjlnwem17ld2)
-
-
 
 ## 🎪 My Tutorial Videos
 
