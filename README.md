@@ -3,6 +3,8 @@
 
 ##   *Hi I'm Akhil. I'm a passionate Full Stack Developer from India.*
 
+[![akhilbaiju](https://readme-typing-svg.herokuapp.com?color=%2300E6FE&lines=Experienced+UI+%2F+UX+Designer;Passionate+about+Technology;Pro+in+Build++from+Scratch;Visit+:+www.akhilbaiju.me;Scroll+down+to+know+more...)](https://akhilbaiju.me)
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently not working. :stuck_out_tongue_closed_eyes: 
