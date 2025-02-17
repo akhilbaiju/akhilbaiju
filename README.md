@@ -25,13 +25,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/akhilbaiju/github-readme-stats"><img alt="Please wait my stat image is loading.Your internet is slow or you have turned on data saver" src="https://github-readme-stats.vercel.app/api?username=akhilbaiju&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/akhilbaiju/github-readme-stats"><img alt="Please wait my language stat image is loading.Your internet is slow or you have turned on data saver" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilbaiju&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
 ## ❤ Views and Followers
 <a href="https://github.com/akhilbaiju/github-profile-views-counter">
