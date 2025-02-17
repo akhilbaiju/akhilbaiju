@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently not working. :stuck_out_tongue_closed_eyes: 
+- 🔭 Currently working as Systems Engineer in Infosys
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
